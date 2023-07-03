@@ -219,3 +219,24 @@ people:
     user_groups:
       - Tutorial Developer
   # =============
+  - title: Younghyun Koo
+    avatar: https://avatars.githubusercontent.com/YoungHyunKoo
+    role: Postdoc Research Associate
+    organizations:
+      - name: Lehigh University
+    bio: > 
+      Young is a postdoctoral research associate at Lehigh University. Young's research is focused on using ICESat-2 sea ice products (ATL07/ATL10) for monitoring thermodynamic and dynamic sea ice behavior in the Southern Ocean.
+      He is also developing several machine learning techniques for monitoring of sea ice and icebergs in the polar regions.
+    expertise:
+      - ICESat-2 ATL07/ATL10 product
+      - Python
+      - Machine learning
+      - Sea ice, icebergs
+      - Image processing
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/YoungHyunKoo
+    user_groups:
+      - Tutorial Developer
+  # =============
